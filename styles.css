@@ -1,7 +1,7 @@
 
 body {
   margin: 0;
-  background-color: #ccd5ae;
+  background-color: #84a59d;
 }
 #welcome-section {
   background-color: white;
@@ -10,7 +10,7 @@ body {
 }
 #navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: #52796f;
 }
 #navbar a {
   float: left;
@@ -35,7 +35,7 @@ body {
   text-decoration: none;
 }
 #footer {
-  background-color: #333;
+  background-color: #52796f;
   text-align: center;
   padding: 10px;
 }
